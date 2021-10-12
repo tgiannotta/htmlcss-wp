@@ -100,7 +100,7 @@ main{
 
 .main-bottom{
     margin: 25px 0px;
-    height: 600px;
+    height: 800px;
     position: relative;
     
 /* SEZIONE DELLE COLONNE */
@@ -126,18 +126,21 @@ main{
 .col-text h2{
     color: grey;
     padding: 20px 0px;
+    
 }
 
 /* FOOTER */
+
 footer{
+    width: 60%;
+    margin: auto;
     text-align: center;
     font-size: 20px;
-    padding: 20px;
+    padding: 20px 00px;
+
    
 }
 .cuore{
     color: red;
     font-size: 30px;
 }
-
-/* Lavorare sul banner occhio agli overlay e overflow */
